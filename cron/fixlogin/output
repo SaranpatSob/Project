@@ -1,0 +1,3 @@
+**************PASS**************
+{'testuser2': {'NowLogin': [], 'Area': 0}, 'testuser1': {'NowLogin': ['158.108.11.12'], 'Area': 1}, 'testuser3': {'NowLogin': ['158.108.55.8', '158.108.33.97'], 'Area': 1}}
+{'@timestamp': '2021-03-13T17:25:30', 'alert.type': 'Login From Multiple Locations', 'user.name': 'testuser1', 'ipaddress': ['158.108.11.12', '158.108.200.89'], 'area': [1, 4], 'log.action': 'login-page', 'detected.by': 'loganalyzer', 'log.source': 'loginlog'}

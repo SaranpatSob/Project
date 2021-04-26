@@ -1,0 +1,5 @@
+{'Alert_Type': 'Excessive Failed Login', 'Detected_Time': '1580835662000', 'Username': 'b6140402097', 'MACAddress': '-', 'IPv4': '158.108.118.126', 'IPv6': '2406:3100:4000:4117:a41d:352f:318c:7ca1'}
+{'Username': 'b6221611156', 'IPaddress': ['10.40.56.42', '10.40.56.42', '10.140.200.42'], 'Area': [1, 4]}
+{'Alert_Type': 'Login From Multiple Locations', 'Detected_Time': '1580835604494', 'Username': 'b6221611156', 'MACAddress': '-', 'IPv4': '10.140.200.42', 'IPv6': '-'}
+{'Username': 'b6230300508', 'IPaddress': ['10.64.43.0', '10.164.243.0'], 'Area': [2, 4]}
+{'Alert_Type': 'Login From Multiple Locations', 'Detected_Time': '1580835612172', 'Username': 'b6230300508', 'MACAddress': '-', 'IPv4': '10.164.243.0', 'IPv6': '-'}

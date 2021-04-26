@@ -1,0 +1,8 @@
+Login Log
+	- (Pass) Login Fail rate
+	- (Pass) Multiple unique login from difference location at a specific time +> จ่าย real กับ private เมื่อไหร่,user ที่ login ใน timestamp นั้นๆ เก็บเป็น IP
+	- (Pass) Login rate
+
+Problem
+    - Captive log ไม่ได้ใช้ในการวิเคราะห์เลย
+    

@@ -1,0 +1,5 @@
+1580835601000 login3.ku.ac.th - - 2406:3100:1018:1::653 access -
+1580835603000 login5.ku.ac.th sfscitnp 158.108.98.92 - success ldap-page-basic-158.108.98.92-noIPv6
+1580835603000 login4.ku.ac.th b6221611156 10.40.56.42 - success ldap-page-basic-10.40.56.42-noIPv6
+1580835604000 login2.ku.ac.th b6030300750 10.64.22.195 - success ldap-page-basic-10.64.22.195-noIPv6
+1580835604000 login5.ku.ac.th - 10.2.8.103 - access -

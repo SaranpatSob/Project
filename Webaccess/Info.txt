@@ -1,0 +1,13 @@
+Web Log
+	- Repeat website access rate
+	- check phishing website
+	- post first without get
+
+Problem
+	1. แก้ให้ Method ไปอยู่ใน Website (Pass)
+	2. ข้อมูลของ Log
+	3. Database Check phishing
+	4. Post without get เช็คตอนสร้าง timestamp (Relate กับ User ด้วย)
+	5. Method "HEAD" คืออะไร
+	6. 
+
